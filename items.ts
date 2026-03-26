@@ -16,7 +16,7 @@ export const items: Item[] = [
     "item_name": "Kaenas' Sword",
     "item_type": "Sword",
     "rarity": "Epic",
-    "required_level": 18,
+    "required_level": 180,
     "base_stats": {
       "total_damage": "36-40",
       "pierce_damage": "27-30",
